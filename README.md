@@ -1,2 +1,0 @@
-# demo
-Setting Up Git
